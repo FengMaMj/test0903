@@ -7,4 +7,5 @@ package com.test;
  */
 public class test3 {
     private String test;
+    private String test2;
 }
